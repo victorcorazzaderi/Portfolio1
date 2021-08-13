@@ -1,4 +1,4 @@
-# Portfolio for Your Name
+# Portfolio for Victor Deri
 The website for this site can be viewed at: https://victorcorazzaderi.github.io/Portfolio1
 
 This website displays my work over the 2 years of IPT as well as my skill with web building.
